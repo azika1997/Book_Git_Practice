@@ -1,0 +1,13 @@
+
+This is the first of chapter one
+
+this is our book for git
+
+
+My name is Aziza and i will become a tester.
+
+whole name: page1.txt
+
+Created a new project
+Created a new package called chapter_1
+Created a new text file called page1
